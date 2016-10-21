@@ -38,7 +38,7 @@
     },
     "linuxAdminUsername": {
       "type": "string",
-      "defaultValue": "azureuser",
+      "defaultValue": "core",
       "metadata": {
         "description": "User name for the Linux Virtual Machines."
       }
